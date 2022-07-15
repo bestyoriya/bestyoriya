@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 🔭 I’m currently working on teacher computer
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bestyoriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bestyoriya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bestyoriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bestyoriya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 
 <!--
 **bestyoriya/bestyoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
